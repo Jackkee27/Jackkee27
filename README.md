@@ -1,5 +1,3 @@
-# JKL27
-
 <p align="center">
   <a href="https://github.com/Jackkee27">
   <img src="https://github-readme-stats.vercel.app/api?username=Jackkee27&show_icons=true&count_private=true&theme=default" alt="GitHub Stats" />
